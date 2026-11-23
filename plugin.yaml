@@ -1,0 +1,4 @@
+name: copilot-image
+version: 1.0.0
+description: GitHub Copilot HTTP text-to-image backend using existing Hermes Copilot authentication.
+kind: backend
